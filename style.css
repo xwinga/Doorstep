@@ -1,0 +1,24 @@
+h1 {
+    font-size: 80px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: salmon;
+}
+h2 {
+    font-size: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(255, 174, 69);
+}
+h3 {
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: salmon;
+}
+body {
+    background-color: blanchedalmond;
+}
+div {
+    border-style: dashed;
+    border-color: coral;
+    background-color:lemonchiffon;
+    border-width: 8px;
+}
